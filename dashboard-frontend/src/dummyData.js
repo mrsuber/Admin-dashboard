@@ -62,6 +62,26 @@ export const userData = [
 ];
 
 
+export const productData = [
+{
+  name: 'January',
+  "Sales": 3000,
+
+},
+{
+  name: 'February',
+  "Sales": 4000,
+
+},
+{
+  name: 'March',
+  "Sales": 3500,
+
+},
+
+];
+
+
 export const userRows = [
   { id: 1, username: 'mrsuber',avatar:"https://i.pinimg.com/originals/af/1c/c3/af1cc3fa780eddc7c91a70f9e836b12c.jpg",email:"msiysinyuy@gmaail.com",status:"active",transaction:"$120.00"},
   { id: 2, username: 'mrsuber',avatar:"https://i.pinimg.com/originals/af/1c/c3/af1cc3fa780eddc7c91a70f9e836b12c.jpg",email:"msiysinyuy@gmaail.com",status:"active",transaction:"$120.00"},
@@ -75,3 +95,17 @@ export const userRows = [
   { id: 10, username: 'mrsuber',avatar:"https://i.pinimg.com/originals/af/1c/c3/af1cc3fa780eddc7c91a70f9e836b12c.jpg",email:"msiysinyuy@gmaail.com",status:"active",transaction:"$120.00"},
 
   ];
+
+  export const productRows = [
+    { id: 1, name: 'Apple Airpods',img:"https://asset.conrad.com/media10/isa/160267/c1/-/en/002196849PI00/image.jpg",stock:123,status:"active",price:"$120.00"},
+    { id: 2, name: 'Apple Airpods',img:"https://asset.conrad.com/media10/isa/160267/c1/-/en/002196849PI00/image.jpg",stock:123,status:"active",price:"$120.00"},
+    { id: 3, name: 'Apple Airpods',img:"https://asset.conrad.com/media10/isa/160267/c1/-/en/002196849PI00/image.jpg",stock:123,status:"active",price:"$120.00"},
+    { id: 4, name: 'Apple Airpods',img:"https://asset.conrad.com/media10/isa/160267/c1/-/en/002196849PI00/image.jpg",stock:123,status:"active",price:"$120.00"},
+    { id: 5, name: 'Apple Airpods',img:"https://asset.conrad.com/media10/isa/160267/c1/-/en/002196849PI00/image.jpg",stock:123,status:"active",price:"$120.00"},
+    { id: 6, name: 'Apple Airpods',img:"https://asset.conrad.com/media10/isa/160267/c1/-/en/002196849PI00/image.jpg",stock:123,status:"active",price:"$120.00"},
+    { id: 7, name: 'Apple Airpods',img:"https://asset.conrad.com/media10/isa/160267/c1/-/en/002196849PI00/image.jpg",stock:123,status:"active",price:"$120.00"},
+    { id: 8, name: 'Apple Airpods',img:"https://asset.conrad.com/media10/isa/160267/c1/-/en/002196849PI00/image.jpg",stock:123,status:"active",price:"$120.00"},
+    { id: 9, name: 'Apple Airpods',img:"https://asset.conrad.com/media10/isa/160267/c1/-/en/002196849PI00/image.jpg",stock:123,status:"active",price:"$120.00"},
+    { id: 10, name: 'Apple Airpods',img:"https://asset.conrad.com/media10/isa/160267/c1/-/en/002196849PI00/image.jpg",stock:123,status:"active",price:"$120.00"},
+
+    ];
